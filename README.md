@@ -6,13 +6,14 @@
   </div>
 </body>
 
-## Introdução
+## 📓 Introdução
 
-Olá, me chamo Rafael dos Santos Pereira, atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FATEC - Prof.Jessen Vidal de São José dos Campos e estagiário na área de Desenvolvimento Web na empresa ENACOM.<br> 
+
+Olá, me chamo Rafael dos Santos Pereira, atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FATEC - Prof.Jessen Vidal de São José dos Campos.<br> 
 Aqui estão reunidos os APIs, projetos integradores propostos durante o curso na FATEC, realizados em parceria com as empresas.<br /> 
 
 
-## Meu projetos
+## :desktop_computer: Meu projetos
 
 <details>
   <summary>Em 2020-1</summary>
@@ -22,13 +23,19 @@ Aqui estão reunidos os APIs, projetos integradores propostos durante o curso na
 No primeiro projeto integrador proposto foi desenvolvido um aplicativo mobile de segurança domiciliar, o qual faz o gerenciamento e controle de câmeras e alarmes para a segurança. Utilizamos a programação modular a qual enfatiza a separação da funcionalidade de um programa em módulos independentes e intercambiáveis.
 
 
-### Parceiro Acadêmico  
-<p align="justify">
-                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
-              </p>
-Prof. Jean Carlos Lourenço Costa, disciplina de Programação em Microinformática. <body/>
+#### :handshake: Parceiro Acadêmico:
+- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
 
-### Tecnologias Utilizadas
+- Prof. Jean Carlos Lourenço Costa, disciplina de Programação em Microinformática.
+
+
+#### :warning: Problema:
+Desenvolver um aplicativo com a finalidade de implementar as tecnologias de programação modular e banco de dados.
+
+#### :old_key: Solução:
+Aplicativo de segurança doméstica que ofereça aos usuários conforto, segurança e praticidade, permitindo controle e monitoramento em qualquer lugar, através de um dispositivo móvel conectado à internet, com foco na autonomia total do cliente sobre a segurança de sua residência a qualquer momento
+
+#### :computer: Tecnologias Utilizadas:
 Foram utilizadas as plataformas Kodular/App Inventor no desenvolvimento do aplicativo e o Firebase para o armazenamento e fornecimento de dados.
 
 - #### Firebase
@@ -36,16 +43,15 @@ O Firebase fornece um banco de dados em tempo real e back-end como um serviço. 
 
  - #### Kodular/AppInventor
 Plataformas usadas para desenvolvimento de aplicativos android, baseada em blocos lógicos. Foi desenvolvido toda a aplicação do projeto usando programação em blocos.
-  
-  
-### Contribuições Pessoais
+    
+#### :1st_place_medal: Contribuições Pessoais:
 Durante o desenvolvimento desse projeto minha contribuição foi na parte do backend da aplicação, o sistema de login, chamadas telefônicas e notificações de acompanhamento de atividades foram construídas através dos blocos lógicos nas plataformas de desenvolvimento de aplicativos android.
 
   
-### Hard Skills
+#### Hard Skills:
 Aprendi sobre a criação e utilização do banco de dados, assim como a lógica de programação, conhecimento desenvolvido na utilização dos blocos lógicos nas plataformas Kodular/AppInventor
 
-### Soft Skills
+#### Soft Skills:
 A principal soft skill desenvolvida foi a comunicação, essencial para a minha contribuição com a equipe, levando em consideração que tivemos que migrar para o ensino EAD em circunstâncias da pandemia, precisavamos manter clareza na nossa comunicação para que pudéssemos trabalhar em equipe no desenvolvimento do projeto.
 
 </details>  
