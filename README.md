@@ -22,18 +22,25 @@ Aqui estão reunidos os APIs, projetos integradores propostos durante o curso na
   
 No primeiro projeto integrador proposto foi desenvolvido um aplicativo mobile de segurança domiciliar, o qual faz o gerenciamento e controle de câmeras e alarmes para a segurança. Utilizamos a programação modular a qual enfatiza a separação da funcionalidade de um programa em módulos independentes e intercambiáveis.
 
+<br> 
 
 #### :handshake: Parceiro Acadêmico:
 - [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
 
 - Prof. Jean Carlos Lourenço Costa, disciplina de Programação em Microinformática.
 
+  <br> 
+
 
 #### :warning: Problema:
 Desenvolver um aplicativo com a finalidade de implementar as tecnologias de programação modular e banco de dados.
 
+<br> 
+
 #### :old_key: Solução:
-Aplicativo de segurança doméstica que ofereça aos usuários conforto, segurança e praticidade, permitindo controle e monitoramento em qualquer lugar, através de um dispositivo móvel conectado à internet, com foco na autonomia total do cliente sobre a segurança de sua residência a qualquer momento
+Aplicativo de segurança doméstica que ofereça aos usuários conforto, segurança e praticidade, permitindo controle e monitoramento em qualquer lugar, através de um dispositivo móvel conectado à internet, com foco na autonomia total do cliente sobre a segurança de sua residência a qualquer momento.
+
+<br> 
 
 #### :computer: Tecnologias Utilizadas:
 Foram utilizadas as plataformas Kodular/App Inventor no desenvolvimento do aplicativo e o Firebase para o armazenamento e fornecimento de dados.
@@ -43,23 +50,35 @@ O Firebase fornece um banco de dados em tempo real e back-end como um serviço. 
 
  - #### Kodular/AppInventor
 Plataformas usadas para desenvolvimento de aplicativos android, baseada em blocos lógicos. Foi desenvolvido toda a aplicação do projeto usando programação em blocos.
+
+<br> 
     
 #### :1st_place_medal: Contribuições Pessoais:
 Durante o desenvolvimento desse projeto minha contribuição foi na parte do backend da aplicação, o sistema de login, chamadas telefônicas e notificações de acompanhamento de atividades foram construídas através dos blocos lógicos nas plataformas de desenvolvimento de aplicativos android.
+
+<br> 
 
   
 #### Hard Skills:
 - **Kodular/AppInventor:**  Sei usar com autonomia.
 - **Firebase:**  Sei usar com ajuda.
 
+  <br> 
+
 #### Soft Skills:
 - **Comunicação:** A principal soft skill desenvolvida foi a comunicação, essencial para a minha contribuição com a equipe, levando em consideração que tivemos que migrar para o ensino EAD em circunstâncias da pandemia, precisavamos manter clareza na nossa comunicação para que pudéssemos trabalhar em equipe no desenvolvimento do projeto.
+
+ <br> 
 
 </details>  
 <details>
   <summary>Em 2020-2</summary>
   
+  <br> 
+  
 Esse projeto integrador consistiu na criação de um sistema dedicado ao controle e gerenciamento da jornada de motoristas. Este sistema foi projetado para localizar e registrar o status da jornada em tempo real.
+
+<br> 
 
 
 #### :handshake: Parceiro Acadêmico:
@@ -67,11 +86,17 @@ Esse projeto integrador consistiu na criação de um sistema dedicado ao control
 
 - [IACIT](https://www.iacit.com.br) - Soluções Tecnológicas
 
+  <br> 
+
 #### :warning: Problema:
 Falta de acompanhamento eficaz e atualização de status na jornada dos motoristas, prejudicando a segurança no transporte de cargas e a experiência do usuário.
 
+<br> 
+
 #### :old_key: Solução:
 Criar um aplicativo de gerenciamento personalizável para monitorar a jornada dos motoristas, oferecendo planejamento, acompanhamento e controle, atendendo às necessidades dos motoristas, funcionários e administradores.
+
+<br> 
 
 #### :computer: Tecnologias Utilizadas:
 
@@ -88,24 +113,30 @@ PostgreSQL é um sistema de gerenciamento de banco de dados relacional de códig
 - #### pgAdmin
  É uma ferramenta de administração de banco de dados que facilita o gerenciamento de bancos de dados PostgreSQL.
 
-
+<br> 
   
 #### :1st_place_medal: Contribuições Pessoais:
 
 No projeto minha contribuição principal foi no desenvolvimento e integração do banco de dados com o backend. Inicialmente, enfrentei o desafio de aprender sobre o desenvolvimento de bancos de dados, pois não tinha muito conhecimento sobre, isso incluia a criação de modelos lógicos e conceituais. Estes modelos são cruciais para garantir que a estrutura de dados atenda aos requisitos do sistema e às necessidades dos usuários. Durante o projeto pude adquirir essa experiência sobre com o desenvolvimento do banco de dados.
 
-### Hard Skills:
+<br> 
+
+#### Hard Skills:
 - **Java:** Sei usar com ajuda.
 - **PostgreSQL & pgAdmin:** Sei usar com autonomia.
 
-### Soft Skills:
+<br> 
+
+#### Soft Skills:
 - **Comunicação:** Continuei aprimorando essa habilidade, pois nesse semestre o número de integrantes era maior do que no passado, além do que o time estava dividido em 3 partes. A comunicação foi necessária para manter a organização do grupo e a eficiência das entregas.
 - **Resiliência:** Durante o projeto ao enfrentar as necessidades relacionadas ao banco de dados e a outros imprevistos foi onde precisei ser mais resiliente, pois apesar de minha falta de conhecimento enfrentei o desafio e me adaptei, buscando soluções para garantir que pudesse atender as demandas e expectativas do cliente.
 
-
+<br> 
 
 <p align="justify">
   <a href="https://github.com/DevSlim001/PI_2020.2"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
+
+  <br> 
   
   </details>
   
