@@ -142,32 +142,79 @@ No projeto minha contribuição principal foi no desenvolvimento e integração 
   
   <details>
   <summary>Em 2021-1</summary>
-     ## Nome proj...
+
+  ## nEDUC
+
+Diante da pandemia de COVID-19, todos enfrentaram o desafio de se adaptar às atividades diárias, incluindo estudos, trabalho e outras interações, o que se alinhou com o avanço da tecnologia. Em parceria com a NESS, nosso desafio era criar uma plataforma web voltada para o ensino à distância, visando a gestão e oferta de conhecimento de maneira prática e eficaz.
+
+<br> 
+
+#### :handshake: Parceiro Acadêmico:
+- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
+- [NESS](https://www.ness.com.br)
+  <br> 
+
+
+#### :warning: Problema:
+
+Encontrar uma solução que tornasse o aprendizado dos estudantes mais acessível e com mais qualidade.
+
+<br> 
+
+#### :old_key: Solução:
+
+Criação de uma plataforma web de ensino intuitiva e prática, que ofereça conteúdos de diversas disciplinas, acesso a certificados e acompanhamento no aprendizado.
+
+
+<br> 
+
+#### :computer: Tecnologias Utilizadas:
+
+
+ - #### Python
+   Python é uma linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. Utilizado em desenvolvimento web, automação, análise de dados e muito mais.
+
+ - #### Django Framework:
+  Django é um framework de desenvolvimento web em Python. Ele oferece uma estrutura robusta para construir aplicativos web, incluindo recursos para gerenciamento de banco de dados, autenticação de usuário e criação de URLs amigáveis.
+
+ - #### SQLite:
+   SQLite é um sistema de gerenciamento de banco de dados relacional (RDBMS) leve e embutido.
+   
+ - #### JavaScript:
+   Linguagem de programação usada principalmente no desenvolvimento web para tornar as páginas interativas.
+   
+ - #### HTML:
+   Linguagem de marcação utilizada para estruturar os elementos da página, como parágrafos, links, títulos, tabelas, imagens e até vídeos. 
   
-descrição do proj
+- #### CSS:
+  Linguagem de estilos utilizada para definir cores, fontes, tamanhos, posicionamento e qualquer outro valor estético para os elementos da página.
 
+<br> 
+    
+#### :1st_place_medal: Contribuições Pessoais:
 
-### Parceiro Acadêmico  
-<p align="justify">
-                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
-              </p>
+Nesse projeto, contribuí com a estruturação do banco de dados, integrações com o backend e a modificação e revisão de algumas telas. Também participei da prototipagem das telas da plataforma web utilizando o Figma. Durante esse processo, trabalhamos na criação dos modelos das páginas, incluindo todos os conteúdos e funcionalidades, bem como na definição do design geral do projeto
 
-### Tecnologias Utilizadas
+<br> 
 
-- #### Tecnologia 1
-...
-
- - #### Tecnologia 2
-...
   
-### Contribuições Pessoais
-...
-  
-### Hard Skills
-...
+#### Hard Skills:
 
-### Soft Skills
-...
+- **Figma:**  Sei usar com autonomia.
+- **JavaScript:**  Sei usar com autonomia.
+- **Python**  Sei usar com ajuda.
+
+
+  <br> 
+
+#### Soft Skills:
+- **Pensamento Criativo:**  Durante a prototipagem desenvolvi muito essa habilidade, pude construir ideias originais, pensando fora da caixa para encontrar soluções criatividas para criar a interface de usuário de maneira agradável e que despertasse interesse.
+
+- **Comunicação Assertiva:** Durante o projeto, consegui manter uma comunicação assertiva com os membros da equipe e o cliente. Pude expressar ideias com clareza, compreender as necessidades e manter um diálogo constante para garantir o alinhamento com as expectativas. Isso foi fundamental para superar imprevistos e garantir o sucesso do projeto.
+ <br> 
+
+ <p align="justify">
+  <a href="https://github.com/developersapi/LMSApp"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
   </details>
   
   <details>
