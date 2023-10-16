@@ -152,7 +152,8 @@ Diante da pandemia de COVID-19, todos enfrentaram o desafio de se adaptar às at
 #### :handshake: Parceiro Acadêmico:
 - [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
 - [NESS](https://www.ness.com.br)
-  <br> 
+
+<br> 
 
 
 #### :warning: Problema:
@@ -216,36 +217,73 @@ Nesse projeto, contribuí com a estruturação do banco de dados, integrações 
  <p align="justify">
   <a href="https://github.com/developersapi/LMSApp"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
   </details>
-  
+
   <details>
   <summary>Em 2021-2</summary>
-     ## Nome proj...
+
+## Ships Document
+
+<br>
+
+#### :handshake: Parceiro Acadêmico:
+- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
+- [EMBRAER](https://embraer.com/br/pt)
+
+  <br> 
+
+
+#### :warning: Problema:
+Este projeto surgiu numa necessidade real da Embraer. Na empresa, a criação e manutenção dos manuais operacionais para suas aeronaves era um processo demorado e propenso a erros devido à abordagem manual e à utilização de planilhas para o controle das atualizações.
+
+<br> 
+
+#### :old_key: Solução:
+
+ A solução consistiu na criação de um aplicativo desktop que se comunica com um servidor interno da empresa, simplificando a criação, manipulação e disponibilização dos manuais para os clientes.
+
+<br> 
+
+#### :computer: Tecnologias Utilizadas:
+
+
+ - #### Angular
+
+ - #### Spring Framework
+
+
+ - #### PostgreSQL
+
+
+<br> 
+    
+#### :1st_place_medal: Contribuições Pessoais:
+
+Neste projeto, assumi o papel de Product Owner da equipe, tendo a responsabilidade de manter uma comunicação direta com o cliente, bem como esclarecer as dúvidas dos membros da equipe. Além disso, tive a responsabilidade de apresentar o progresso do projeto durante as sprints, participando ativamente do processo contínuo de validação e negociação de prazos e requisitos. 
+Colaborei de forma versátil no projeto, auxiliando tanto no desenvolvimento front-end quanto no back-end, contribuindo para a construção e publicação dos manuais das aeronaves, modelagem de banco de dados e desenvolvimento da lógica de negócios.
+
+<br> 
   
-descrição do proj
+#### Hard Skills:
+
+- **Angular:** Sei usar com ajuda
+- **PostgreSQL:** Sei usar com autonomia
 
 
-### Parceiro Acadêmico  
-<p align="justify">
-                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
-              </p>
+  <br> 
 
-### Tecnologias Utilizadas
+#### Soft Skills:
 
-- #### Tecnologia 1
-...
+- **Comunicação:** Dada a complexidade do projeto e os desafios enfrentados, a comunicação foi fundamental para que a equipe finalizasse esse projeto com sucesso.
+ <br>
 
- - #### Tecnologia 2
-...
-  
-### Contribuições Pessoais
-...
-  
-### Hard Skills
-...
+- **Colaboração:** Inicialmente, nossa equipe não estava em sintonia. Após enfrentar desafios, imprevistos e dificuldades, nos unimos em prol do bem do grupo. Isso nos permitiu alcançar nossos objetivos planejados para esse projeto.
 
-### Soft Skills
-...
+ <br>
+ 
+ <p align="justify">
+  <a href="https://github.com/developersapi/Sistema-Web-com-Regra-de-Negocio"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
   </details>
+  
   
   <details>
   <summary>Em 2022-1</summary>
