@@ -9,7 +9,10 @@
 ## 📓 Introdução
 
 
-Olá, me chamo Rafael dos Santos Pereira, atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FATEC - Prof.Jessen Vidal de São José dos Campos.<br> 
+Olá, me chamo Rafael dos Santos Pereira, moro em Caçapava/SP. <br>
+Me formei no ensino médio na Escola Profª Maria Aparecida F.B. de Nova Caçapava. Sempre tive um interesse pela área da tecnologia, influenciado pelo meu pai, que gostava de mexer com a parte de hardware. Esse interesse me levou a ingressar na FATEC - Prof. Jessen Vidal de São José dos Campos, onde atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+<br> 
+
 Aqui estão reunidos os APIs, projetos integradores propostos durante o curso na FATEC, realizados em parceria com as empresas.<br /> 
 
 
@@ -20,7 +23,7 @@ Aqui estão reunidos os APIs, projetos integradores propostos durante o curso na
 
   ## SlimSystem
   
-No primeiro projeto integrador proposto foi desenvolvido um aplicativo mobile de segurança domiciliar, o qual faz o gerenciamento e controle de câmeras e alarmes para a segurança. Utilizamos a programação modular a qual enfatiza a separação da funcionalidade de um programa em módulos independentes e intercambiáveis.
+No primeiro projeto integrador proposto foi desenvolvido um aplicativo mobile de segurança domiciliar, que faz o gerenciamento e controle de câmeras e alarmes para a segurança. Utilizamos a programação modular, que enfatiza a separação da funcionalidade de um programa em módulos independentes e intercambiáveis.
 
 <br> 
 
@@ -33,7 +36,7 @@ No primeiro projeto integrador proposto foi desenvolvido um aplicativo mobile de
 
 
 #### :warning: Problema:
-Desenvolver um aplicativo com a finalidade de implementar as tecnologias de programação modular e banco de dados.
+Falta de controle e monitoramento eficaz de segurança domiciliar, o que leva a preocupações com a segurança dos moradores e de seus bens quando estão ausentes.
 
 <br> 
 
@@ -117,7 +120,7 @@ PostgreSQL é um sistema de gerenciamento de banco de dados relacional de códig
   
 #### :1st_place_medal: Contribuições Pessoais:
 
-No projeto minha contribuição principal foi no desenvolvimento e integração do banco de dados com o backend. Inicialmente, enfrentei o desafio de aprender sobre o desenvolvimento de bancos de dados, pois não tinha muito conhecimento sobre, isso incluia a criação de modelos lógicos e conceituais. Estes modelos são cruciais para garantir que a estrutura de dados atenda aos requisitos do sistema e às necessidades dos usuários. Durante o projeto pude adquirir essa experiência sobre com o desenvolvimento do banco de dados.
+No projeto, minha contribuição principal foi o desenvolvimento e integração do banco de dados com o backend. No início, enfrentei o desafio de aprender sobre o desenvolvimento de bancos de dados, uma vez que eu não tinha muito conhecimento prévio, o que incluía a criação de modelos lógicos e conceituais. Esses modelos são cruciais para garantir que a estrutura de dados atenda aos requisitos do sistema e às necessidades dos usuários. Durante o projeto, adquiri a experiência no desenvolvimento de bancos de dados.
 
 <br> 
 
