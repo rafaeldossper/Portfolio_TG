@@ -104,14 +104,14 @@ Criar um aplicativo de gerenciamento personalizável para monitorar a jornada do
 #### :computer: Tecnologias Utilizadas:
 
 - #### Java
-Java é uma linguagem de programação amplamente utilizada para desenvolver aplicativos de software. Ela permite o desenvolvimento de uma ampla gama de aplicativos, desde sites e aplicativos móveis até softwares de desktop e sistemas embarcados.
+Java foi a principal linguagem de programação utilizada no projeto. Através dela, o aplicativo foi desenvolvido, fornecendo uma base sólida para a implementação das funcionalidades necessárias.
 
 
 - #### Java Swing
-Biblioteca gráfica para a criação de interfaces de usuário (GUI) em aplicativos Java. Ela oferece componentes gráficos, como botões, caixas de texto e janelas, que permitem criar interfaces de usuário interativas e visualmente atraentes em aplicativos desktop.
+É um framework que disponibiliza um conjunto de elementos gráficos para a criação de interfaces de usuário (GUI) em aplicativos Java. No projeto, Java Swing foi utilizado juntamente com a linguagem Java para desenvolver interfaces de usuário interativas e visualmente atraentes para o aplicativo.
 
 - #### PostgreSQL
-PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto amplamente reconhecido por sua confiabilidade e recursos avançados. É uma escolha popular para armazenar e gerenciar dados em uma variedade de aplicativos, de pequenos sites a sistemas empresariais de grande escala.
+PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto, amplamente reconhecido por sua robustez, confiabilidade e capacidade de lidar com grandes volumes de dados. No projeto, PostgreSQL foi o banco de dados utilizado para armazenar e gerenciar os dados da aplicação, garantindo integridade e eficiência no acesso aos dados.
 
 - #### pgAdmin
  É uma ferramenta de administração de banco de dados que facilita o gerenciamento de bancos de dados PostgreSQL.
@@ -120,7 +120,7 @@ PostgreSQL é um sistema de gerenciamento de banco de dados relacional de códig
   
 #### :1st_place_medal: Contribuições Pessoais:
 
-No projeto, minha contribuição principal foi o desenvolvimento e integração do banco de dados com o backend. No início, enfrentei o desafio de aprender sobre o desenvolvimento de bancos de dados, uma vez que eu não tinha muito conhecimento prévio, o que incluía a criação de modelos lógicos e conceituais. Esses modelos são cruciais para garantir que a estrutura de dados atenda aos requisitos do sistema e às necessidades dos usuários. Durante o projeto, adquiri a experiência no desenvolvimento de bancos de dados.
+No projeto, minha contribuição principal foi o desenvolvimento e a integração do banco de dados PostgreSQL com o backend feito em Java. No início, enfrentei o desafio de aprender sobre o desenvolvimento de bancos de dados. Eu não tinha muito conhecimento prévio, o que incluía a criação de modelos lógicos e conceituais. Esses modelos são importantes para garantir que a estrutura de dados atenda aos requisitos do sistema e às necessidades dos usuários. Durante o projeto, adquiri a experiência no desenvolvimento de bancos de dados.
 
 <br> 
 
@@ -176,28 +176,27 @@ Criação de uma plataforma web de ensino intuitiva e prática, que ofereça con
 
 
  - #### Python
-   Python é uma linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. Utilizado em desenvolvimento web, automação, análise de dados e muito mais.
-
+   Python foi utilizado como a linguagem de programação principal devido à sua simplicidade e legibilidade. Ele foi empregado no desenvolvimento do backend do projeto, facilitando a integração com o banco de dados e a implementação das funcionalidades principais.
  - #### Django Framework:
-  Django é um framework de desenvolvimento web em Python. Ele oferece uma estrutura robusta para construir aplicativos web, incluindo recursos para gerenciamento de banco de dados, autenticação de usuário e criação de URLs amigáveis.
+   Django é um framework de desenvolvimento web rápido em Python, usado para criar aplicativos web de forma eficiente. No projeto, o Django foi empregado para criar páginas web dinâmicas, gerenciar o banco de dados e lidar com a lógica de negócios de maneira simplificada e organizada. Ele ofereceu recursos essenciais para lidar facilitar a interação entre o frontend e o backend do aplicativo.
 
  - #### SQLite:
    SQLite é um sistema de gerenciamento de banco de dados relacional (RDBMS) leve e embutido.
    
  - #### JavaScript:
-   Linguagem de programação usada principalmente no desenvolvimento web para tornar as páginas interativas.
+   Foi utilizado principalmente no frontend para tornar as páginas web interativas. Ele permitiu a implementação de funcionalidades dinâmicas e a melhora na experiência do usuário.
    
  - #### HTML:
-   Linguagem de marcação utilizada para estruturar os elementos da página, como parágrafos, links, títulos, tabelas, imagens e até vídeos. 
+   Foi empregado para estruturar os elementos das páginas web. Isso incluiu a criação de parágrafos, links, títulos, tabelas, imagens e vídeos. 
   
-- #### CSS:
-  Linguagem de estilos utilizada para definir cores, fontes, tamanhos, posicionamento e qualquer outro valor estético para os elementos da página.
-
+ - #### CSS:
+   Foi utilizado para definir o estilo e o layout das páginas web. Ele permitiu a customização de cores, fontes, tamanhos e posicionamento dos elementos, contribuindo para a estética geral do projeto.
+  
 <br> 
     
 #### :1st_place_medal: Contribuições Pessoais:
 
-Nesse projeto, contribuí com a estruturação do banco de dados, integrações com o backend e a modificação e revisão de algumas telas. Também participei da prototipagem das telas da plataforma web utilizando o Figma. Durante esse processo, trabalhamos na criação dos modelos das páginas, incluindo todos os conteúdos e funcionalidades, bem como na definição do design geral do projeto
+Nesse projeto, contribuí com a estruturação do banco de dados utilizando SQLite, integrações com o backend desenvolvido em Python e Django, e a modificação e revisão de algumas telas utilizando HTML, CSS e JavaScript. Também participei da prototipagem das telas da plataforma web utilizando o Figma. Durante esse processo, trabalhamos na criação dos modelos das páginas, incluindo todos os conteúdos e funcionalidades, bem como na definição do design geral do projeto.
 
 <br> 
 
