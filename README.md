@@ -177,6 +177,7 @@ Criação de uma plataforma web de ensino intuitiva e prática, que ofereça con
 
  - #### Python
    Python foi utilizado como a linguagem de programação principal devido à sua simplicidade e legibilidade. Ele foi empregado no desenvolvimento do backend do projeto, facilitando a integração com o banco de dados e a implementação das funcionalidades principais.
+   
  - #### Django Framework:
    Django é um framework de desenvolvimento web rápido em Python, usado para criar aplicativos web de forma eficiente. No projeto, o Django foi empregado para criar páginas web dinâmicas, gerenciar o banco de dados e lidar com a lógica de negócios de maneira simplificada e organizada. Ele ofereceu recursos essenciais para lidar facilitar a interação entre o frontend e o backend do aplicativo.
 
@@ -248,20 +249,22 @@ Este projeto surgiu numa necessidade real da Embraer. Na empresa, a criação e 
 #### :computer: Tecnologias Utilizadas:
 
 
- - #### Angular
-
- - #### Spring Framework
+ - #### Spring Framework:
+    O Spring foi a tecnologia chave do projeto, sendo utilizada para construir as rotas de integração com o banco de dados PostgreSQL. Ele oferece suporte à infraestrutura da aplicação, permitindo que os desenvolvedores se concentrem na lógica da aplicação. O uso do Spring Data facilitou a conexão direta com o banco de dados, simplificando a persistência dos dados e o tratamento dos manuais no sistema.
 
 
  - #### PostgreSQL
+   O PostgreSQL foi escolhido como o banco de dados do sistema proposto. Ele utiliza a linguagem SQL como interface para adicionar, acessar e processar os dados da aplicação, possibilitando a persistência dos dados de forma eficiente.
 
+   
+ - #### AngularJS:
+   A interface do usuário foi construída utilizando AngularJS, um framework front-end JavaScript que oferece um padrão de componentização de elementos HTML. Isso facilitou o desenvolvimento e a integração das telas, tornando a construção da interface gráfica do usuário mais simples e intuitiva.
 
 <br> 
     
 #### :1st_place_medal: Contribuições Pessoais:
 
-Neste projeto, assumi o papel de Product Owner da equipe, tendo a responsabilidade de manter uma comunicação direta com o cliente, bem como esclarecer as dúvidas dos membros da equipe. Além disso, tive a responsabilidade de apresentar o progresso do projeto durante as sprints, participando ativamente do processo contínuo de validação e negociação de prazos e requisitos. 
-Colaborei de forma versátil no projeto, auxiliando tanto no desenvolvimento front-end quanto no back-end, contribuindo para a construção e publicação dos manuais das aeronaves, modelagem de banco de dados e desenvolvimento da lógica de negócios.
+Neste projeto, assumi o papel de Product Owner da equipe, tendo a responsabilidade de manter uma comunicação direta com o cliente, bem como esclarecer as dúvidas dos membros da equipe. Além disso, tive a responsabilidade de apresentar o progresso do projeto durante as sprints, participando ativamente do processo contínuo de validação e negociação de prazos e requisitos. Colaborei de forma versátil no projeto, auxiliando tanto no desenvolvimento front-end quanto no back-end, contribuindo para a construção e publicação dos manuais das aeronaves, modelagem de banco de dados e desenvolvimento da lógica de negócios.
 
 <br> 
   
