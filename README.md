@@ -225,7 +225,7 @@ Nesse projeto, contribuí com a estruturação do banco de dados utilizando SQLi
   <summary>Em 2021-2</summary>
 
 ## Ships Document
-
+Neste projeto fomos desafiados a desenvolver um sistema para gerar documentos de aeronaves conforme os padrões da empresa. A proposta surgiu da necessidade de facilitar o gerenciamento e a manipulação dos manuais operacionais das aeronaves, que eram realizados de forma manual e sujeitos a erros.
 <br>
 
 #### :handshake: Parceiro Acadêmico:
