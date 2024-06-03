@@ -292,34 +292,75 @@ Neste projeto, assumi o papel de Product Owner da equipe, tendo a responsabilida
   
   <details>
   <summary>Em 2022-1</summary>
-     ## Nome proj...
+    
+  ## eFols
+  Neste semestre, em parceria com a Embraer, desenvolvemos um aplicativo mobile para notificar os proprietários sobre novos procedimentos e facilitar a leitura de documentos de manutenção de seus veículos.
+<br>
+
+#### :handshake: Parceiro Acadêmico:
+- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
+- [EMBRAER](https://embraer.com/br/pt)
+
+  <br> 
+
+#### :warning: Problema:
+Dificuldade dos proprietários de veículos em acessar e ler documentos preventivos e de manutenção devido à dificuldade de acesso ou à falta de notificações sobre novos documentos no sistema.
+
+<br> 
+
+#### :old_key: Solução:
+Desenvolver um aplicativo móvel que forneça alertas e recomendações aos motoristas sobre procedimentos em caso de problemas com seus veículos. Os usuários receberão notificações e poderão consultar os documentos (FOLs) em formato PDF quando necessário.
+
+<br> 
+
+#### :computer: Tecnologias Utilizadas:
+
+
+ - #### Node.js: 
+   O Node.js foi essencial para o desenvolvimento do backend, pois permite a criação de servidores web de forma eficiente e escalável. Utilizamos o Express.js como framework para gerenciar rotas e middleware, simplificando o desenvolvimento da API RESTful. A capacidade de trabalhar com JavaScript tanto no frontend quanto no backend também facilitou a sincronização e manutenção do código entre as duas partes do projeto.
+
+ - #### MongoDB:
+   MongoDB, um banco de dados NoSQL, gerenciou os dados do sistema, oferecendo flexibilidade de esquema e lidando bem com grandes volumes. A integração com Node.js via Mongoose simplificou operações de CRUD.
   
-descrição do proj
-
-
-### Parceiro Acadêmico  
-<p align="justify">
-                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
-              </p>
-
-### Tecnologias Utilizadas
-
-  - #### NodeJS
-  ...
-
-  - #### MongoDB
-  ...
-  - #### React Native
-  ...
+   
+ - #### React Native:
+   Utilizamos React Native para criar o aplicativo móvel de forma nativa para Android e iOS com JavaScript, oferecendo componentes reutilizáveis e um desenvolvimento rápido, mantendo a consistência visual com a versão web.
   
-### Contribuições Pessoais
-...
-  
-### Hard Skills
-...
+<br> 
+    
+#### :1st_place_medal: Contribuições Pessoais:
 
-### Soft Skills
-...
+Fui responsável por parte do desenvolvimento do backend utilizando Node.js e Express.js para criar a estrutura do servidor e definir rotas para a API. Implementei as funcionalidades principais da API, incluindo autenticação de usuários e manipulação de dados no MongoDB usando Mongoose. Além disso, colaborei com a equipe de frontend para integrar o backend com o aplicativo React Native, garantindo uma comunicação eficiente entre as partes.
+
+<br> 
+  
+#### Hard Skills:
+- **Node.js:** Sei usar com autonomia
+- **MongoDB:** Sei usar com autonomia
+- **React Native:** Sei usar com ajuda
+
+
+  <br> 
+
+#### Soft Skills:
+
+- **Resolução de Problemas:** Enfrentar obstáculos técnicos e encontrar soluções eficazes foi uma habilidade chave demonstrada durante o desenvolvimento do projeto, demonstrando uma abordagem criativa e analítica para resolver os desafios.
+  <br>
+
+- **Colaboração:** Trabalhar de forma colaborativa e cooperativa com colegas de equipe foi essencial para o sucesso do projeto, promovendo um ambiente positivo e produtivo onde as ideias foram compartilhadas, discutidas e implementadas de maneira eficiente.
+
+ <br>
+ 
+ 
+
+   
+   #### [Documentação](https://github.com/TecStocks)
+   #### [Backend](https://github.com/TecStocks/backend)
+   #### [Frontend](https://github.com/TecStocks/frontend)
+   #### [Servidor de Autenticação](https://github.com/TecStocks/auth-server)
+   #### [Interface Admin](https://github.com/TecStocks/admin-react)
+  
+
   
   </details>
 
