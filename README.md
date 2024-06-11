@@ -366,34 +366,67 @@ Fui responsável por parte do desenvolvimento do backend utilizando Node.js e Ex
 
    <details>
   <summary>Em 2022-2</summary>
-     ## Nome proj...
+     
+  ## SoyIA
+Durante esse projeto em parceria com a empresa Visiona, nossa equipe trabalhou no desenvolvimento de uma Inteligência Artificial como uma nova funcionalidade para um aplicativo já existente. O objetivo era capacitar o aplicativo para reconhecer vagens e grãos de soja, fornecendo assim uma estimativa de produção do plantio aos usuários.
+ <br>
+
+#### :handshake: Parceiro Acadêmico:
+- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
+- [VISIONA](https://visionaespacial.com)
+
+  <br> 
+
+#### :warning: Problema:
+  Os agricultores precisavam preencher manualmente dados sobre suas plantações toda vez que precisavam de informações.
+
+<br> 
+
+#### :old_key: Solução:
+ Implementação de uma IA no aplicativo. Basta o agricultor tirar uma foto da planta para obter dados quantitativos.
+
+<br> 
+
+#### :computer: Tecnologias Utilizadas:
+
+ - #### ReactJs: 
+
+ - #### Python: 
+   
+ - #### TensorFlow:
+
+ - #### PostgreSQL:
+
   
-descrição do proj
+<br> 
+    
+#### :1st_place_medal: Contribuições Pessoais:
 
+No projeto, ajudei a desenvolver parte da IA, criando o dataset, realizando o treinamento e integrando-a ao aplicativo móvel. Também contribuí para corrigir bugs durante o processo. 
 
-### Parceiro Acadêmico  
-<p align="justify">
-                     <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - Prof. Jessen Vidal </a>
-              </p>
-
-### Tecnologias Utilizadas
-
-  - #### NodeJS
-  ...
-
-  - #### MongoDB
-  ...
-  - #### React Native
-  ...
+<br> 
   
-### Contribuições Pessoais
-...
-  
-### Hard Skills
-...
+#### Hard Skills:
+- **Python:** Sei usar com autonomia
+- **PostgreSQL:** Sei usar com autonomia
 
-### Soft Skills
-...
+
+  <br> 
+
+#### Soft Skills:
+
+- **Trabalho em equipe:**  Colaboramos para configurar o treinamento da IA em diferentes computadores. Essa abordagem colaborativa nos permitiu alcançar nossos objetivos de maneira eficiente e coordenada.
+  <br>
+
+- **Disciplina:** Foi crucial estabelecer um planejamento eficaz, tanto individualmente quanto em equipe, para estudar e implementar uma nova tecnologia.
+
+ <br>
+ 
+ 
+ <p align="justify">
+  <a href="https://github.com/medrenan/SoyIA"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
+   
+ 
   
   </details>
   
@@ -404,9 +437,11 @@ descrição do proj
 
 :beginner: JavaScript
 
+:beginner: NodeJS
+
 :floppy_disk: MongoDB
 
-:floppy_disk: MariaDB
+:floppy_disk: PostgreSQL
 
 
 ##  :phone: Contatos
