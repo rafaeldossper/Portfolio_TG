@@ -95,7 +95,7 @@ Falta de acompanhamento eficaz e atualização de status na jornada dos motorist
 <br> 
 
 #### :old_key: Solução:
-Criar um aplicativo de gerenciamento personalizável para monitorar a jornada dos motoristas, oferecendo planejamento, acompanhamento e controle, atendendo às necessidades dos motoristas, funcionários e administradores.
+Criar um aplicativo para gerenciar a jornada de trabalho dos motoristas, oferecendo funções distintas para motoristas, funcionários e administradores. O sistema permitirá o planejamento e controle das atividades, proporcionando um acompanhamento em tempo real das jornadas, e será flexível para atender às necessidades específicas de cada usuário e da empresa.
 <p align="justify">
   <a href="https://github.com/DevSlim001/PI_2020.2"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
 
@@ -209,9 +209,9 @@ Nesse projeto, contribuí com a estruturação do banco de dados utilizando SQLi
   <br> 
 
 #### Soft Skills:
-- **Pensamento Criativo:**  Durante a prototipagem desenvolvi muito essa habilidade, pude construir ideias originais, pensando fora da caixa para encontrar soluções criatividas para criar a interface de usuário de maneira agradável e que despertasse interesse.
+- **Pensamento Criativo:**  Durante a fase de prototipagem, utilizei meu pensamento criativo para desenvolver a interface de usuário, criando um design visual original alinhado às expectativas do cliente. A proposta foi bem recebida na apresentação, o que me permitiu refinar o visual da interface para atender melhor às suas necessidades específicas.
 
-- **Comunicação Assertiva:** Durante o projeto, consegui manter uma comunicação assertiva com os membros da equipe e o cliente. Pude expressar ideias com clareza, compreender as necessidades e manter um diálogo constante para garantir o alinhamento com as expectativas. Isso foi fundamental para superar imprevistos e garantir o sucesso do projeto.
+- **Comunicação Assertiva:** No projeto, mantive uma comunicação clara e eficaz com a equipe, enquanto recebia feedbacks constantes do cliente. Isso garantiu que minhas ideias sobre a interface fossem compreendidas e permitiu ajustes rápidos no design, alinhando-o com as expectativas e requisitos do cliente. Essa abordagem também facilitou a resolução de imprevistos, assegurando a entrega final dentro do prazo e com o resultado esperado.
  <br> 
 
  
@@ -275,10 +275,10 @@ Neste projeto, assumi o papel de Product Owner da equipe, tendo a responsabilida
 
 #### Soft Skills:
 
-- **Comunicação:** Dada a complexidade do projeto e os desafios enfrentados, a comunicação foi fundamental para que a equipe finalizasse esse projeto com sucesso.
+- **Comunicação:** Mantive contato constante com o cliente para alinhar expectativas e esclarecer dúvidas relacionadas ao projeto. Por exemplo, durante a implementação da lógica de negócios, compartilhei atualizações sobre o progresso e negociei mudanças necessárias, garantindo a aceitação do cliente e o sucesso da entrega.
  <br>
 
-- **Colaboração:** Inicialmente, nossa equipe não estava em sintonia. Após enfrentar desafios, imprevistos e dificuldades, nos unimos em prol do bem do grupo. Isso nos permitiu alcançar nossos objetivos planejados para esse projeto.
+- **Colaboração:** No início, a equipe enfrentava desafios de alinhamento. Contribuí promovendo discussões conjuntas e auxiliando na resolução de problemas técnicos, o que fortaleceu a coesão do time e resultou em entregas mais eficazes e dentro do prazo.
 
  <br>
  
@@ -342,10 +342,10 @@ Fui responsável por parte do desenvolvimento do backend utilizando Node.js e Ex
 
 #### Soft Skills:
 
-- **Resolução de Problemas:** Enfrentar obstáculos técnicos e encontrar soluções eficazes foi uma habilidade chave demonstrada durante o desenvolvimento do projeto, demonstrando uma abordagem criativa e analítica para resolver os desafios.
+- **Resolução de Problemas:** Durante o desenvolvimento da API, enfrentei desafios técnicos na integração entre o backend e o aplicativo. Identifiquei um problema de autenticação que afetava a comunicação com o MongoDB e implementei uma solução que garantiu a segurança e eficiência do fluxo de dados, mantendo o sistema funcional.
   <br>
 
-- **Colaboração:** Trabalhar de forma colaborativa e cooperativa com colegas de equipe foi essencial para o sucesso do projeto, promovendo um ambiente positivo e produtivo onde as ideias foram compartilhadas, discutidas e implementadas de maneira eficiente.
+- **Colaboração:** Trabalhei em estreita parceria com os membros da equipe de frontend, ajustando as rotas do backend conforme os feedbacks para garantir uma integração fluida. Isso fortaleceu a sinergia entre a equipe e contribuiu para a entrega dentro do prazo.
 
  <br>
  
@@ -384,13 +384,14 @@ Durante esse projeto em parceria com a empresa Visiona, nossa equipe trabalhou n
 
 #### :computer: Tecnologias Utilizadas:
 
- - #### ReactJs: 
-
+ - #### Keras: 
+  Keras é uma biblioteca de aprendizado profundo em Python que simplifica a criação e treinamento de redes neurais. No projeto, foi usada em conjunto com o TensorFlow para implementar rapidamente a inteligência artificial, otimizando o reconhecimento visual das vagens de soja e acelerando o processo de treinamento do modelo.  
  - #### Python: 
-   
+   Empregado no processamento e limpeza dos dados das plantações, além de ser a base para o treinamento da IA, aproveitando bibliotecas como TensorFlow para análise e reconhecimento de padrões nas imagens das plantações.
  - #### TensorFlow:
-
+   TensorFlow é uma biblioteca de código aberto para aprendizado de máquina, usada no projeto para construir e treinar modelos de redes neurais. Com a ajuda do Keras, simplificou o desenvolvimento de modelos complexos, proporcionando uma base sólida para treinar a inteligência artificial que realiza o reconhecimento de vagens de soja, garantindo a precisão e eficiência no processo de estimativa de produção.
  - #### PostgreSQL:
+   Armazena as informações dos usuários e das plantas, permitindo consultas eficientes para acessar dados históricos de plantações e resultados da IA, além de garantir a integridade e o desempenho das operações de leitura e escrita.
 
   
 <br> 
@@ -413,12 +414,9 @@ No projeto, ajudei a desenvolver parte da IA, criando o dataset, realizando o tr
 - **Trabalho em equipe:**  Colaboramos para configurar o treinamento da IA em diferentes computadores. Essa abordagem colaborativa nos permitiu alcançar nossos objetivos de maneira eficiente e coordenada.
   <br>
 
-- **Disciplina:** Foi crucial estabelecer um planejamento eficaz, tanto individualmente quanto em equipe, para estudar e implementar uma nova tecnologia.
+- **Disciplina:** No desenvolvimento da IA, trabalhei junto ao time para configurar o treinamento em diferentes máquinas. A troca constante de ideias e o apoio mútuo foram essenciais para garantir a eficiência no processo, otimizando os recursos disponíveis e garantindo que todos estivessem alinhados nas tarefas.
 
  <br>
- 
- 
-
    
  
   
