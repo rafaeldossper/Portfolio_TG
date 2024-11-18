@@ -398,7 +398,7 @@ Durante esse projeto em parceria com a empresa Visiona, nossa equipe trabalhou n
     
 #### :1st_place_medal: Contribuições Pessoais:
 
-No projeto, ajudei a desenvolver parte da IA, criando o dataset, realizando o treinamento e integrando-a ao aplicativo móvel. Também contribuí para corrigir bugs durante o processo. 
+Contribuí com a equipe no uso do algoritmo Yolo, combinado com TensorFlow, Keras e OpenCV, para a detecção de vagens de soja em imagens. Ajudei na coleta e rotulação do dataset e participei ativamente no treinamento e otimização do modelo, ajustando parâmetros e avaliando o desempenho para melhorar a precisão da detecção e estimativa de produção.
 
 <br> 
   
