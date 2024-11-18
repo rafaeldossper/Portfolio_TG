@@ -11,6 +11,7 @@
 
 Olá, me chamo Rafael dos Santos Pereira, moro em Caçapava/SP. <br>
 Me formei no ensino médio na Escola Profª Maria Aparecida F.B. de Nova Caçapava. Sempre tive um interesse pela área da tecnologia, influenciado pelo meu pai, que gostava de mexer com a parte de hardware. Esse interesse me levou a ingressar na FATEC - Prof. Jessen Vidal de São José dos Campos, onde atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+Na área, atuei durante um ano como Desenvolvedor Back-end na ENACOM Group.
 <br> 
 
 Aqui estão reunidos os APIs, projetos integradores propostos durante o curso na FATEC, realizados em parceria com as empresas.<br /> 
@@ -83,11 +84,8 @@ Esse projeto integrador consistiu na criação de um sistema dedicado ao control
 
 <br> 
 
-
 #### :handshake: Parceiro Acadêmico:
-- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
-
-- [IACIT](https://www.iacit.com.br) - Soluções Tecnológicas
+- [IACIT](https://www.iacit.com.br) - Desenvolvimento de produtos e sistemas tecnológicos para áreas como Defesa, Controle de Tráfego Aéreo e Marítimo, Meteorologia, Telemetria e Comunicação.
 
   <br> 
 
@@ -98,6 +96,8 @@ Falta de acompanhamento eficaz e atualização de status na jornada dos motorist
 
 #### :old_key: Solução:
 Criar um aplicativo de gerenciamento personalizável para monitorar a jornada dos motoristas, oferecendo planejamento, acompanhamento e controle, atendendo às necessidades dos motoristas, funcionários e administradores.
+<p align="justify">
+  <a href="https://github.com/DevSlim001/PI_2020.2"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
 
 <br> 
 
@@ -136,10 +136,7 @@ No projeto, minha contribuição principal foi o desenvolvimento e a integraçã
 
 <br> 
 
-<p align="justify">
-  <a href="https://github.com/DevSlim001/PI_2020.2"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
 
-  <br> 
   
   </details>
   
@@ -153,8 +150,7 @@ Diante da pandemia de COVID-19, todos enfrentaram o desafio de se adaptar às at
 <br> 
 
 #### :handshake: Parceiro Acadêmico:
-- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
-- [NESS](https://www.ness.com.br)
+- [NESS](https://www.ness.com.br) - Desenvolvimento de software, infraestrutura de TI, segurança da informação e outsourcing, com foco em inovação e transformação digital.
 
 <br> 
 
@@ -167,8 +163,9 @@ Encontrar uma solução que tornasse o aprendizado dos estudantes mais acessíve
 
 #### :old_key: Solução:
 
-Criação de uma plataforma web de ensino intuitiva e prática, que ofereça conteúdos de diversas disciplinas, acesso a certificados e acompanhamento no aprendizado.
-
+Desenvolver uma plataforma web de ensino prática e intuitiva, com conteúdos de várias disciplinas, acompanhamento do progresso do aluno e emissão de certificados. A plataforma visa facilitar o aprendizado autônomo, permitindo que os usuários avancem no seu próprio ritmo.
+<p align="justify">
+  <a href="https://github.com/developersapi/LMSApp"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
 
 <br> 
 
@@ -217,8 +214,7 @@ Nesse projeto, contribuí com a estruturação do banco de dados utilizando SQLi
 - **Comunicação Assertiva:** Durante o projeto, consegui manter uma comunicação assertiva com os membros da equipe e o cliente. Pude expressar ideias com clareza, compreender as necessidades e manter um diálogo constante para garantir o alinhamento com as expectativas. Isso foi fundamental para superar imprevistos e garantir o sucesso do projeto.
  <br> 
 
- <p align="justify">
-  <a href="https://github.com/developersapi/LMSApp"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
+ 
   </details>
 
   <details>
@@ -226,11 +222,11 @@ Nesse projeto, contribuí com a estruturação do banco de dados utilizando SQLi
 
 ## Ships Document
 Neste projeto, fomos desafiados a desenvolver um sistema para gerar documentos de aeronaves conforme os padrões da empresa. A proposta surgiu da necessidade de facilitar o gerenciamento e a manipulação dos manuais operacionais das aeronaves, que eram realizados de forma manual e sujeitos a erros.
+
 <br>
 
 #### :handshake: Parceiro Acadêmico:
-- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
-- [EMBRAER](https://embraer.com/br/pt)
+- [EMBRAER](https://embraer.com/br/pt) - Desenvolvimento de aeronaves comerciais, executivas, de defesa e segurança, além de oferecer soluções e serviços para a indústria aeroespacial.
 
   <br> 
 
@@ -242,8 +238,9 @@ Este projeto surgiu numa necessidade real da Embraer. Na empresa, a criação e 
 
 #### :old_key: Solução:
 
- A solução consistiu na criação de um aplicativo desktop que se comunica com um servidor interno da empresa, simplificando a criação, manipulação e disponibilização dos manuais para os clientes.
-
+ A solução consistiu no desenvolvimento de um aplicativo desktop que se comunica com um servidor interno da empresa, facilitando a criação, manipulação e disponibilização dos manuais para os clientes, tornando o processo mais eficiente e menos complexo.
+ <p align="justify">
+  <a href="https://github.com/developersapi/Sistema-Web-com-Regra-de-Negocio"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
 <br> 
 
 #### :computer: Tecnologias Utilizadas:
@@ -285,8 +282,7 @@ Neste projeto, assumi o papel de Product Owner da equipe, tendo a responsabilida
 
  <br>
  
- <p align="justify">
-  <a href="https://github.com/developersapi/Sistema-Web-com-Regra-de-Negocio"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
+
   </details>
   
   
@@ -295,11 +291,11 @@ Neste projeto, assumi o papel de Product Owner da equipe, tendo a responsabilida
     
   ## eFols
   Neste semestre, em parceria com a Embraer, desenvolvemos um aplicativo mobile para notificar os proprietários sobre novos procedimentos e facilitar a leitura de documentos de manutenção de seus veículos.
+
 <br>
 
 #### :handshake: Parceiro Acadêmico:
-- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
-- [EMBRAER](https://embraer.com/br/pt)
+- [EMBRAER](https://embraer.com/br/pt) - Desenvolvimento de aeronaves comerciais, executivas, de defesa e segurança, além de oferecer soluções e serviços para a indústria aeroespacial.
 
   <br> 
 
@@ -309,7 +305,9 @@ Dificuldade dos proprietários de veículos em acessar e ler documentos preventi
 <br> 
 
 #### :old_key: Solução:
-Desenvolver um aplicativo móvel que forneça alertas e recomendações aos motoristas sobre procedimentos em caso de problemas com seus veículos. Os usuários receberão notificações e poderão consultar os documentos (FOLs) em formato PDF quando necessário.
+Criação de um aplicativo móvel que notifica os motoristas sobre novos documentos FOL e fornece acesso rápido a informações sobre manutenção preventiva. Ele permite que os motoristas recebam alertas em tempo real, facilitando o acompanhamento de procedimentos e garantindo que possam tomar as medidas necessárias para manter seus veículos em boas condições.
+
+ #### [[Documentação]](https://github.com/TecStocks) &nbsp;&nbsp;&nbsp; [[Backend]](https://github.com/TecStocks/backend) &nbsp;&nbsp;&nbsp; [[Frontend]](https://github.com/TecStocks/frontend) &nbsp;&nbsp;&nbsp; [[Servidor de Autenticação]](https://github.com/TecStocks/auth-server)&nbsp;&nbsp;&nbsp; [[Interface Admin]](https://github.com/TecStocks/admin-react)
 
 <br> 
 
@@ -354,11 +352,7 @@ Fui responsável por parte do desenvolvimento do backend utilizando Node.js e Ex
  
 
    
-   #### [Documentação](https://github.com/TecStocks)
-   #### [Backend](https://github.com/TecStocks/backend)
-   #### [Frontend](https://github.com/TecStocks/frontend)
-   #### [Servidor de Autenticação](https://github.com/TecStocks/auth-server)
-   #### [Interface Admin](https://github.com/TecStocks/admin-react)
+  
   
 
   
@@ -369,11 +363,11 @@ Fui responsável por parte do desenvolvimento do backend utilizando Node.js e Ex
      
   ## SoyIA
 Durante esse projeto em parceria com a empresa Visiona, nossa equipe trabalhou no desenvolvimento de uma Inteligência Artificial como uma nova funcionalidade para um aplicativo já existente. O objetivo era capacitar o aplicativo para reconhecer vagens e grãos de soja, fornecendo assim uma estimativa de produção do plantio aos usuários.
+ 
  <br>
 
 #### :handshake: Parceiro Acadêmico:
-- [FATEC - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
-- [VISIONA](https://visionaespacial.com)
+- [VISIONA](https://visionaespacial.com) -  Desenvolvimento de satélites e soluções para o setor aeroespacial, com foco em monitoramento da Terra, comunicação via satélite e sistemas de observação.
 
   <br> 
 
@@ -383,8 +377,9 @@ Durante esse projeto em parceria com a empresa Visiona, nossa equipe trabalhou n
 <br> 
 
 #### :old_key: Solução:
- Implementação de uma IA no aplicativo. Basta o agricultor tirar uma foto da planta para obter dados quantitativos.
-
+ Uma inteligência artificial foi adicionada ao aplicativo já utilizado pelos agricultores, permitindo a contagem automática de vagens e a estimativa da quantidade de grãos nas plantações. Isso elimina a necessidade de preenchimento manual de dados, tornando o processo mais rápido e eficiente.
+ <p align="justify">
+  <a href="https://github.com/medrenan/SoyIA"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
 <br> 
 
 #### :computer: Tecnologias Utilizadas:
@@ -423,8 +418,7 @@ No projeto, ajudei a desenvolver parte da IA, criando o dataset, realizando o tr
  <br>
  
  
- <p align="justify">
-  <a href="https://github.com/medrenan/SoyIA"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=black"/></a> </p>
+
    
  
   
